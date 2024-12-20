@@ -1,4 +1,13 @@
-## Hello, GitHub 👋
+# Hello, GitHub 👋
+
+## 🔭 Currently Working On/Planning...
+- [Next-Level-Loot](https://github.com/Torvec/next-level-loot)
+- Re-design of my Portfolio
+- Creating a blog with Astro and MDX
+- Making another game with vanilla JavaScript
+
+### Tools and Technologies I Use...
+- HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, Vite, Visual Studio Code, Figma, MySQL, MongoDB, Node.js, Cloudflare, Vercel, Heroku...and more!
 
 <!--
 **Torvec/Torvec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
