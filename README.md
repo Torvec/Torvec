@@ -1,25 +1,10 @@
-# Hello, GitHub 👋
+# Hey GitHub, I'm Edward 👋
+I'm a Full Stack Web Developer, Amateur Game Dev (hobbyist), former Automation Controls Technician at Tesla, veteran Electronics Technician at US Navy, and former freelance front-end web developer/designer.
 
-## 🔭 Currently Working On/Planning...
-- [Next-Level-Loot](https://github.com/Torvec/next-level-loot)
-- Re-design of my Portfolio
-- Creating a blog with Astro and MDX
-- Making another game with vanilla JavaScript
 
-### Tools and Technologies I Use...
-- HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, Vite, Visual Studio Code, Figma, MySQL, MongoDB, Node.js, Cloudflare, Vercel, Heroku...and more!
-
-<!--
-**Torvec/Torvec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My Portfolio](https://edward-vonschondorf.dev/) 
+- Experienced with HTML, CSS, JavaScript, TypeScript, Next, Astro, Node, Express, React, Vue, MySQL, MongoDB, REST API's, GraphQL
+  - Also, TailwindCSS, Material UI, Redux, React Router, Sequelize, Mongoose
+- Currently learning Python and Go
+- Socials: [LinkedIn](https://www.linkedin.com/in/edward-vonschondorf/) / [Youtube](https://www.youtube.com/@edward-vonschondorf-dev) / [BlueSky](https://bsky.app/profile/edward-vonschondorf.dev) / [Mastodon](https://mastodon.social/@edvonschondorf) 
+- [Contact Me](me@edward-vonschondorf.dev)
