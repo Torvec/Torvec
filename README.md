@@ -1,5 +1,5 @@
 # Hey GitHub, I'm Edward 👋
-I'm a Full Stack Web Developer, Amateur Game Dev (hobbyist), former Automation Controls Technician at Tesla, veteran Electronics Technician at US Navy, and former freelance front-end web developer/designer.
+I'm a software developer (web/game), former Automation Controls Technician at Tesla, veteran Electronics Technician at US Navy, and former freelance front-end web developer/designer.
 
 - [My Portfolio](https://edward-vonschondorf.dev/)
 - Experienced with HTML, CSS, JavaScript, TypeScript, Python, Next, Astro, Node, Express, React, Vue, MySQL, MongoDB, SQLLite, REST API's, GraphQL
