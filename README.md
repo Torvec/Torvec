@@ -6,7 +6,7 @@ I'm a Full Stack Web Developer, Amateur Game Dev (hobbyist), former Automation C
   - Also, TailwindCSS, Material UI, Redux, React Router, Sequelize, Mongoose
 - Currently learning Go
 - Socials: [LinkedIn](https://www.linkedin.com/in/edward-vonschondorf/) | [Youtube](https://www.youtube.com/@edward-vonschondorf-dev) | [BlueSky](https://bsky.app/profile/edward-vonschondorf.dev) | [Mastodon](https://mastodon.social/@edvonschondorf) 
-- [Contact Me](mailto:me@edward-vonschondorf.dev)
+- Contact: [me@edward-vonschondorf.dev](mailto:me@edward-vonschondorf.dev)
 
 ### Currently Working On
 - Creating a new portfolio site: [Repository](https://github.com/Torvec/edward-vonschondorf.dev)
