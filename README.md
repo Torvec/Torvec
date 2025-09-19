@@ -8,6 +8,6 @@ I'm a software developer (web/game), former Automation Controls Technician at Te
 
 ### Currently Working On
 
-- Building a fully-featured Asteroid game in Python: [Repository](https://github.com/Torvec/asteroids)
-- MarkThisDown Editor App: [Repository](https://github.com/Torvec/markthisdown) | [Website](https://markthisdown.app/)
+- Making Assault on Triton, a 2D arcade style space shooter made with Pygame-ce: [Repository](https://github.com/Torvec/assault-on-triton)
+- Making the MarkThisDown Editor App with Electron, Vite, and React: [Repository](https://github.com/Torvec/markthisdown) | [Website](https://markthisdown.app/)
 - Learning/practicing Go, TypeScript, and Python at [boot.dev](https://www.boot.dev/u/torvec)
