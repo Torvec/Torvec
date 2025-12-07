@@ -3,7 +3,7 @@
 I'm a software developer (web/game), former Automation Controls Technician at Tesla, veteran Electronics Technician at US Navy, and former freelance front-end web developer/designer.
 
 - Website: [edward-vonschondorf.dev](https://edward-vonschondorf.dev/) (New)
-- Socials: [LinkedIn](https://www.linkedin.com/in/edward-vonschondorf/) | [Youtube](https://www.youtube.com/@edward-vonschondorf-dev) | [BlueSky](https://bsky.app/profile/edward-vonschondorf.dev) | [Mastodon](https://mastodon.social/@edvonschondorf)
+- Socials: [LinkedIn](https://www.linkedin.com/in/edward-vonschondorf/) | [Youtube](https://www.youtube.com/@edward-vonschondorf-dev) | [BlueSky](https://bsky.app/profile/edward-vonschondorf.dev)
 - Contact: [me@edward-vonschondorf.dev](mailto:me@edward-vonschondorf.dev)
 
 ### Currently Working On
